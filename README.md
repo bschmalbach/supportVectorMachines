@@ -7,10 +7,10 @@ The model is too conservative as flagging individuals as being at risk of not pa
 Thus, bad model: We would rather erroneously flag someone as "might not pay back the loan" versus give a loan to someone and later be surprised that he/she won't pay it back.
 
 *Train data set*
-   train_pred
-       0    1
-  0 5582    0
-  1  650  427
+   
+ | | 0   |1|
+ |0| 5582|0|
+ |1| 650 |427|
   
   *Test data set*
     test_pred
