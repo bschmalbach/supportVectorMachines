@@ -4,7 +4,7 @@ In this exercise, the goal is to predict whether a debtor will fully pay back hi
 
 After some adjustement of kernel parameters, the training model is very accurate but the test data set is harder to predict accurately.
 The model is too conservative as flagging individuals as being at risk of not paying back the loan fully (the inverse error happens much more rarely).
-Thus, bad model: We would rather erroneously flag someone as "might not pay back the loan" versus give a loan to someone and later be surprised that he/she won't pay it back. More tuning would be necessary.
+Thus, bad model: We would rather erroneously flag someone as "might not pay back the loan" versus give a loan to someone and later be surprised that he/she won't pay it back. Sacrificed some training accuracy, to gain some test acurracy, but still not acceptable. More tuning would be necessary.
 
 *Train data set*
    
