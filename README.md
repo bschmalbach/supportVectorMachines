@@ -8,9 +8,10 @@ Thus, bad model: We would rather erroneously flag someone as "might not pay back
 
 *Train data set*
    
- | | 0   |1|
- |0| 5582|0|
- |1| 650 |427|
+ | |0   |1  |
+ |-|----|---|
+ |0|5582|0  |
+ |1|650 |427|
   
   *Test data set*
     test_pred
