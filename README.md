@@ -14,7 +14,8 @@ Thus, bad model: We would rather erroneously flag someone as "might not pay back
  |1|650 |427|
   
   *Test data set*
-    test_pred
-       0    1
-  0 2405   58
-  1  423   33
+ | |0   |1 |
+ |-|----|--|
+ |0|2405|58|
+ |1|423 |33|
+  
